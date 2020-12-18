@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-02T06:20:17.464Z</updated>
+  <updated>2020-12-18T01:43:11.181Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用xgboost进行犯罪预测</title>
+    <link href="http://example.com/2020/12/18/%E4%BD%BF%E7%94%A8xgboost%E8%BF%9B%E8%A1%8C%E7%8A%AF%E7%BD%AA%E9%A2%84%E6%B5%8B/"/>
+    <id>http://example.com/2020/12/18/%E4%BD%BF%E7%94%A8xgboost%E8%BF%9B%E8%A1%8C%E7%8A%AF%E7%BD%AA%E9%A2%84%E6%B5%8B/</id>
+    <published>2020-12-18T01:33:04.000Z</published>
+    <updated>2020-12-18T01:43:11.181Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Git手册速查——转载</title>
